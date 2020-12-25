@@ -23,6 +23,7 @@ __status__ = "Education"
 # - аутентифицируемся
 # - понравился подсмотренный подход открыть первое письмо и переходить к следующему по кнопке "Следующее"
 # - "база данных" - здесь это простоскладываем в список (пропустил лекции по Mongo, требуется больше времени)
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC

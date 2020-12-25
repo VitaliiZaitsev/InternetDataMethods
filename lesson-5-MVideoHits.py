@@ -22,6 +22,7 @@ __status__ = "Education"
 # - выбираем секцию карусели (спасибо за разбор!), в ней парсим товары, кликаем дальше, пока на очередном парсинге карусели НЕ иссякнут уникальные товары-хиты
 # - "база данных" - здесь также просто складываем в список (пропустил лекции по Mongo, требуется больше времени)
 
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
