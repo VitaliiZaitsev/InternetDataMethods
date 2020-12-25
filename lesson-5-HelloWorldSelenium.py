@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 # source https://github.com/gil9red/SimplePyScripts/blob/f7b5f7562a86064e8c04fb62206af257efab7345/selenium__examples/hello_world.py#L26
-
 # https://pypi.python.org/pypi/selenium
 
 # pip install selenium
