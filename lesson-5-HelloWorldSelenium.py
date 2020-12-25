@@ -5,7 +5,6 @@
 
 # https://pypi.python.org/pypi/selenium
 
-
 # pip install selenium
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
