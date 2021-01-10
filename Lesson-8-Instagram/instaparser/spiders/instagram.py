@@ -18,8 +18,9 @@ class InstagramSpider(scrapy.Spider):
     # Предоставленные креды НЕ работают
     # Личные креды использовать не хочу
     # Создал новый аккаунт, работает
-    inst_login = 'vitalytest2'
-    inst_password = '#PWD_INSTAGRAM_BROWSER:10:1609673909:ASRQAOWYdm/K1Ph+Ct4Rx7b+WwmqWsQV2vpgNJi7Xuw/KB5a0/MnMxV6L1drk13F9ZdpWS72mVAbFjOWy3WiCtNyC0mPvR87cuRMJRVTjEdecRY0DjBd/eiGC7vwX0ElZqpHd0Hiaz1O4qJcXeHyWpvcxNkjKpQ1GrCD'
+    # креды от аккаунта - здесь фейковые, настоящие креды доступны в моей папке курса
+    inst_login = 'secret'
+    inst_password = 'secret'
 
     # parse_user = 'ai_machine_learning'
     #parse_user_list = ['ai_machine_learning']
